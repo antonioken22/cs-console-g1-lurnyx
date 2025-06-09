@@ -1,0 +1,14 @@
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/bin/Debug/net8.0/Group1Lurnyx
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/bin/Debug/net8.0/Group1Lurnyx.deps.json
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/bin/Debug/net8.0/Group1Lurnyx.runtimeconfig.json
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/bin/Debug/net8.0/Group1Lurnyx.dll
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/bin/Debug/net8.0/Group1Lurnyx.pdb
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.GeneratedMSBuildEditorConfig.editorconfig
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.AssemblyInfoInputs.cache
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.AssemblyInfo.cs
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.csproj.CoreCompileInputs.cache
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.dll
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/refint/Group1Lurnyx.dll
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.pdb
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.genruntimeconfig.cache
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/ref/Group1Lurnyx.dll
