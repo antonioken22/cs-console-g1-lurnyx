@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Group1Lurnyx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b03a19d06c8ccc03ae29e0c3bde3526d561f78b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Group1Lurnyx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Group1Lurnyx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

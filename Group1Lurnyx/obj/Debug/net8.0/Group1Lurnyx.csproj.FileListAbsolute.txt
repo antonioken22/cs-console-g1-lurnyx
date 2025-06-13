@@ -12,3 +12,4 @@
 /home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.pdb
 /home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.genruntimeconfig.cache
 /home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/ref/Group1Lurnyx.dll
+/home/antonioken25/Documents/GitHub/Alliance/Group1Lurnyx/Group1Lurnyx/obj/Debug/net8.0/Group1Lurnyx.sourcelink.json
